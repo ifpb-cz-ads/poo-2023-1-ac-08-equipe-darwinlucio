@@ -1,5 +1,3 @@
-package application;
-
 //Class Equipamento
 public class AC8BMExercicio04 {
 	
